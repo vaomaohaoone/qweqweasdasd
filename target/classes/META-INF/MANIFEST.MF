@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: Cloud_ML_Deploying
+Implementation-Version: 1.0-SNAPSHOT
+Built-By: timof
+Implementation-Vendor-Id: Cloud_ML_Deploying
+Build-Jdk: 1.8.0_211
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/Cloud_ML_Deploying
+Created-By: Maven Integration for Eclipse
+

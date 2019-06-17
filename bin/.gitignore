@@ -1,0 +1,4 @@
+.idea/
+docker-compose.yml
+target/
+Cloud_ML_Deploying.iml
